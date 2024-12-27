@@ -30,7 +30,7 @@
 @@||dl.delivery.mp.microsoft.com^$important
 @@||laerskoolrooihuiskraal.co.za^$important
 ||eastus-8.in.applicationinsights.azure.com^$important
-||fortnite-storage-live.s3.amazonaws.com^$important
+@@||fortnite-storage-live.s3.amazonaws.com^$important
 ||cdn2.unrealengine.com^$important
 ||content-controls-prod.ol.epicgames.net^$important
 ||cloudflare.epicgamescdn.com^$important

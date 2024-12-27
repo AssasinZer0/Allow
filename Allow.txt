@@ -34,9 +34,6 @@
 @@||cdn2.unrealengine.com^$important
 @@||content-controls-prod.ol.epicgames.net^$important
 @@||cloudflare.epicgamescdn.com^$important
-@@||^$important
-@@||^$important
-@@||^$important
 @@||.epicgames.com^$important
 @@||statsproxy-public-service-live.ol.epicgames.com^$important
 @@||cdn-0001.qstv.on.epicgames.com^$important

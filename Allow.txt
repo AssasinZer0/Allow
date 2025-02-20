@@ -265,4 +265,5 @@
 @@||cdn.rollbar.com^$important
 @@||fastfs1.podbean.com^$important
 @@||script.hotjar.com^$important
-
+@@||us-mobile.events.data.microsoft.com^$important
+@@||teams.events.data.microsoft.com^$important

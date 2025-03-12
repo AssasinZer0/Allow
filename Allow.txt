@@ -267,3 +267,15 @@
 @@||script.hotjar.com^$important
 @@||us-mobile.events.data.microsoft.com^$important
 @@||teams.events.data.microsoft.com^$important
+@@||global.livediagnostics.monitor.azure.com^$important
+@@||eu-v10c.events.data.microsoft.com^$important
+@@||backend-xpress.jabra.com^$important
+@@||northeurope-0.in.applicationinsights.azure.com^$important
+@@||ecom-cdn.ubi.com^$important
+@@||cdn.cquotient.com^$important
+@@||qcc.qualcomm.com^$important
+@@||vod-secure.twitch.tv^$important
+@@||otlp.bugsnag.com^$important
+@@||api.takealot.com^$important
+@@||www.kasmweb.com^$important
+@@||u1.yesichat.com^$important

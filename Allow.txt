@@ -279,3 +279,14 @@
 @@||api.takealot.com^$important
 @@||www.kasmweb.com^$important
 @@||u1.yesichat.com^$important
+@@||ephemeralcounters.api.roblox.com^$important
+@@||clientsettingscdn.roblox.com^$important
+@@||t0.rbxcdn.com^$important
+@@||sc3.rbxcdn.com^$important
+@@||sc7.rbxcdn.com^$important
+@@||sc6.rbxcdn.com^$important
+@@||apis.rbxcdn.com^$important
+@@||t3.rbxcdn.com^$important
+@@||t6.rbxcdn.com^$important
+@@||id.google.com^$important
+

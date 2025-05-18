@@ -289,4 +289,4 @@
 @@||t3.rbxcdn.com^$important
 @@||t6.rbxcdn.com^$important
 @@||id.google.com^$important
-
+@@||sentry.cloudimperiumgames.com^$important

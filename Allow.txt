@@ -1,3 +1,7 @@
+||tracker1.myporn.club^$important
+||wpad.za.metgroup.biz^$important
+||wpad.*^$important
+||controlup.*^$important
 ||vipthe.monster^$important
 ||cla.mmltd.co.za^$important
 ||static.doubleclick.net^$important
@@ -9,6 +13,23 @@
 ||statsproxy-public-service-live.ol.epicgames.com^$important
 ||cdn-0001.qstv.on.epicgames.com^$important
 ||eastus-8.in.applicationinsights.azure.com^$important
+@@||gold.roblox.com^$important
+@@||receive-lp1.dg.srv.nintendo.net^$important
+@@||cdp.cloud.unity3d.com^
+@@||config.uca.cloud.unity3d.com^
+@@||*.discord.com^
+@@||otpi0g-cdn-settings.appsflyersdk.com^$important
+@@||tracing.roblox.com^$important
+@@||app.chat.global.xiaomi.net^$important
+@@||trace.svc.ui.com^$important
+@@||sdk-api-v1.singular.net^$important
+@@||graph.facebook.com^$important
+@@||api2.amplitude.com^$important
+@@||edge.aditude.io^$important
+@@||userstats.xboxlive.com^$important
+@@||client.aps.amazon-adsystem.com^$important
+@@||amazon.co.za^$important
+@@||config.aps.amazon-adsystem.com^$important
 @@||.epicgames.com^$important
 @@||ecsv2.roblox.com^
 @@||ecsv2.roblox.com^$important
@@ -291,3 +312,4 @@
 @@||id.google.com^$important
 @@||sentry.cloudimperiumgames.com^$important
 @@||graph.whatsapp.net^$important
+

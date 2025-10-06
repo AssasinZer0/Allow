@@ -312,4 +312,12 @@
 @@||id.google.com^$important
 @@||sentry.cloudimperiumgames.com^$important
 @@||graph.whatsapp.net^$important
+@@||track.saygames.io^$important
+@@||app.saygames.io^$important
+@@||app-measurement.com^$important
+@@||settings-win.data.microsoft.com^$important
+@@||activity.windows.com^$important
+@@||assets.activity.windows.com^$important
+@@||arc.msn.com^$important
+@@||avty.xboxlive.com^$important
 

@@ -320,4 +320,5 @@
 @@||assets.activity.windows.com^$important
 @@||arc.msn.com^$important
 @@||avty.xboxlive.com^$important
+@@||collector.github.com^$important
 

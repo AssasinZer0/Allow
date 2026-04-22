@@ -1,3 +1,4 @@
+||example.com^$important
 ||tracker1.myporn.club^$important
 ||wpad.za.metgroup.biz^$important
 ||wpad.*^$important
@@ -21,5 +22,6 @@
 ||cla.mmltd.co.za^$important
 ||tracker1.myporn.club^$important
 ||wns.notify.trafficmanager.net^$important
-||example.com^$important
 ||bartin.healthcrunch.pro^$important
+||y99.*^$important
+||meetyou.*^$important

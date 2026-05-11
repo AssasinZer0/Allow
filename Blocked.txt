@@ -1,7 +1,5 @@
 ||example.com^$important
 ||tracker1.myporn.club^$important
-||wpad.za.metgroup.biz^$important
-||wpad.*^$important
 ||controlup.*^$important
 ||vipthe.monster^$important
 ||cla.mmltd.co.za^$important

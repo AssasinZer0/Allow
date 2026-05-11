@@ -23,3 +23,6 @@
 ||bartin.healthcrunch.pro^$important
 ||y99.*^$important
 ||meetyou.*^$important
+||googleads.g.doubleclick.net.localdomain^$important
+||firebaselogging-pa.googleapis.com.localdomain^$important
+||spot-pa.googleapis.com.localdomain^$important

@@ -39,3 +39,4 @@
 ||wpad.cyberark.co.za
 ||wpad.multimed.co.za
 ||wpad.momentumsti.co.za
+||bigfix.momentum.co.za

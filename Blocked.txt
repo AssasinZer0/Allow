@@ -26,3 +26,16 @@
 ||googleads.g.doubleclick.net.localdomain^$important
 ||firebaselogging-pa.googleapis.com.localdomain^$important
 ||spot-pa.googleapis.com.localdomain^$important
+||wpad.metmom.mmih.biz
+||wpad.mominv.mmih.biz
+||wpad.momentum.co.za
+||wpad.mmih.biz
+||wpad.mmiholdings.co.za
+||wpad.ho.momentum.co.za
+||wpad.za.metgroup.biz
+||wpad.metropolitan.co.za
+||wpad.za.mhgad.com
+||wpad.mmiholdings.com
+||wpad.cyberark.co.za
+||wpad.multimed.co.za
+||wpad.momentumsti.co.za
